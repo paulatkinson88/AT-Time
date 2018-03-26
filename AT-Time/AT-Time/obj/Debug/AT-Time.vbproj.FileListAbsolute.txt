@@ -1,0 +1,12 @@
+C:\Users\paul\Documents\GitHub\AT-Time\AT-Time\AT-Time\bin\Debug\AT-Time.exe.config
+C:\Users\paul\Documents\GitHub\AT-Time\AT-Time\AT-Time\bin\Debug\AT-Time.exe
+C:\Users\paul\Documents\GitHub\AT-Time\AT-Time\AT-Time\bin\Debug\AT-Time.pdb
+C:\Users\paul\Documents\GitHub\AT-Time\AT-Time\AT-Time\bin\Debug\AT-Time.xml
+C:\Users\paul\Documents\GitHub\AT-Time\AT-Time\AT-Time\obj\Debug\AT-Time.vbprojResolveAssemblyReference.cache
+C:\Users\paul\Documents\GitHub\AT-Time\AT-Time\AT-Time\obj\Debug\AT_Time.Form1.resources
+C:\Users\paul\Documents\GitHub\AT-Time\AT-Time\AT-Time\obj\Debug\AT_Time.Resources.resources
+C:\Users\paul\Documents\GitHub\AT-Time\AT-Time\AT-Time\obj\Debug\AT-Time.vbproj.GenerateResource.Cache
+C:\Users\paul\Documents\GitHub\AT-Time\AT-Time\AT-Time\obj\Debug\AT-Time.vbproj.CoreCompileInputs.cache
+C:\Users\paul\Documents\GitHub\AT-Time\AT-Time\AT-Time\obj\Debug\AT-Time.exe
+C:\Users\paul\Documents\GitHub\AT-Time\AT-Time\AT-Time\obj\Debug\AT-Time.xml
+C:\Users\paul\Documents\GitHub\AT-Time\AT-Time\AT-Time\obj\Debug\AT-Time.pdb
